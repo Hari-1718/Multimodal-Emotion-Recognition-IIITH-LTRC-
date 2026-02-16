@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+librosa
+pandas
+scikit-learn
+matplotlib
+numpy
+seaborn
